@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: ocgif-judo-1.jpg
+  feature: Fitness-for-Judo-1600x800.jpg
 ---
 
 <div class="tiles">
