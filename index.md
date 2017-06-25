@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: http://www.ocgif.com/wp-content/uploads/2010/09/ocgif-judo-1.jpg
+  feature: ocgif-judo-1.jpg
 ---
 
 <div class="tiles">
