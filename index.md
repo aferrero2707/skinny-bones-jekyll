@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: ocgif-judo-1.jpg
+  feature: Fitness-for-Judo-1600x800.jpg
 ---
 
 <div class="tiles">
@@ -18,18 +18,28 @@ Pour nos judokas désirant progresser davantage dans les compétitions, nous avo
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Content First</h2>
-  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
-</div><!-- /.tile -->
+  <h2 class="post-title">Le TAISO</h2>
+  <p class="post-excerpt">Le Taïso (préparation du corps en japonais) est un sport d’origine japonaise. Souvent pratiqué dans un dojo, vêtu d’un judogi, ou d’un kimono plus léger, parfois simplement en tenue sportive.
 
-<div class="tile">
-  <h2 class="post-title">Customizable</h2>
-  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
-</div><!-- /.tile -->
+À l’origine, le Taïso nommait les activités physiques complémentaires pratiquées par les compétiteurs de judo ou de jujitsu dans le cadre de leur entrainement. De nos jours cette discipline intéresse un public de plus en plus large, sans limite d’âge, qui n’a pas forcément pratiqué de sport auparavant et qui recherche un loisir axé sur la culture et l’entretien physique.
 
-<div class="tile">
-  <h2 class="post-title">Extensible</h2>
-  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
+C’est une alternative ludique aux nombreux sports de remise en forme comme le step ou la gymnastique volontaire puisque certains cours de Taïso représentent une approche douce des arts martiaux tels que le judo et le jujitsu, sans aucun danger (pas de chute, pas de coup porté).
+
+Les exercices du Taïso sont donc très variés, la plupart se font en binômes :
+
+entretien cardio-respiratoire
+amélioration de l’endurance
+renforcement musculaire
+amélioration de l’équilibre
+amélioration des capacités psychomotrices
+amélioration de la coordination générale des membres
+assouplissement
+relaxation
+Le Taïso est affilié à la Fédération Française de Judo Jujitsu et Disciplines Associées.
+
+http://www.ffjudo.com/taiso
+
+Le Taïso peut être pratiqué par tous : adolescents et adultes, hommes et femmes.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
