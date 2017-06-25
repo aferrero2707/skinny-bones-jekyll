@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: branch-1600x800.jpg
+  feature: ocgif-judo-1.jpg
 ---
 
 <div class="tiles">
