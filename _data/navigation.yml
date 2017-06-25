@@ -24,13 +24,4 @@
   url: /bureau/
   excerpt: "Le bureau."
   image: 400x250.gif
-    
-- title: Liens
-  url: /liens/
-  excerpt: "Liens."
-  image: 400x250.gif
-      
-- title: Contacts
-  url: /contacts/
-  excerpt: "Contacts."
-  image: 400x250.gif
+ 
