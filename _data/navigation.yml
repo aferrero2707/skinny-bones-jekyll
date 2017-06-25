@@ -1,21 +1,36 @@
 # Site navigation links
 
-- title: Getting Started
-  url: /getting-started/
-  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
+- title: Activites
+  url: /activites/
+  excerpt: "Les activites de la section Judo."
   image: 400x250.gif
 
-- title: Sample Articles
-  url: /articles/
-  excerpt: "Examples of long form posts."
+- title: Agenda
+  url: /agenda/
+  excerpt: "Agenda."
   image: 400x250.gif
 
-- title: Media
-  url: /media/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+- title: Competitions et Tournois
+  url: /competitions/
+  excerpt: "Competitions et tournois."
   image: 400x250.gif
 
-- title: About
-  url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
+- title: Actualites
+  url: /actualites/
+  excerpt: "Actualites."
+  image: 400x250.gif
+  
+- title: Le bureau
+  url: /bureau/
+  excerpt: "Le bureau."
+  image: 400x250.gif
+    
+- title: Liens
+  url: /liens/
+  excerpt: "Liens."
+  image: 400x250.gif
+      
+- title: Contacts
+  url: /contacts/
+  excerpt: "Contacts."
   image: 400x250.gif
