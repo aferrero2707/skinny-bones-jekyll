@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: wood-texture-1600x800.jpg
+  feature: http://www.ocgif.com/wp-content/uploads/2010/09/ocgif-judo-1.jpg
 ---
 
 <div class="tiles">
